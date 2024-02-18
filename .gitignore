@@ -1,0 +1,20 @@
+*.exe
+*.dll
+*.rar
+*.FDB
+*.dcu
+*.bak
+*.dsk
+*.lnk
+*.dsk
+*.~*
+
+# Delphi history and backups
+__history/
+__recovery/
+
+
+
+
+
+DB/DB-Script/1.sql
